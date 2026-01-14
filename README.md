@@ -30,7 +30,7 @@ El sistema desarrollado modela un ejemplo sencillo de **gestión de pedidos y pr
 
 A continuación se muestra el diagrama de clases UML utilizado como base para el desarrollo del proyecto.
 
-![Diagrama UML](source/uml_pedido.png)
+![Diagrama UML](uml_pedido.png)
 
 ---
 
